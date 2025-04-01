@@ -1,4 +1,4 @@
-import { useAuthStore } from "../../store/authUser";
+import { useAuthStore } from "../../store/authUser.js";
 import AuthScreen from "./AuthScreen";
 import HomeScreen from "./HomeScreen";
 
