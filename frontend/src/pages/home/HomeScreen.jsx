@@ -1,3 +1,4 @@
+
 import { Link } from "react-router-dom";
 import Navbar from "../../components/Navbar";
 import { Info, Play } from "lucide-react";
